@@ -191,7 +191,7 @@ Full-Stack Developer | Open Source Enthusiast
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - **GitHub**: [github.com/yourusername](https://github.com/yourusername)
 - **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
+- **Portfolio**: [portfolio-website-six-snowy-21.vercel.app](https://portfolio-website-six-snowy-21.vercel.app/)
 
 ## 🙏 Acknowledgments
 
