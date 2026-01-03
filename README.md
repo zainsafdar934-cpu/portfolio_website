@@ -155,7 +155,7 @@ Modify themes in `src/themes/default.js`:
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Portfolio-blue?style=for-the-badge&logo=vercel)](https://portfolio-website-six-snowy-21.vercel.app/)
 
-[🚀 View Live Portfolio](https://portfolio-website-six-snowy-21.vercel.app/)
+- **🚀 View Live Portfolio**: [portfolio-website-six-snowy-21.vercel.app](https://portfolio-website-six-snowy-21.vercel.app/)
 
 ### Screenshots
 
