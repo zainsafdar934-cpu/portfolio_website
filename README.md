@@ -44,7 +44,7 @@ A sleek, modern portfolio website built with Next.js to showcase projects, skill
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/portfolio_website.git
+   git clone https://github.com/zainsafdar934-cpu/portfolio_website.git
    cd portfolio_website
    ```
 
